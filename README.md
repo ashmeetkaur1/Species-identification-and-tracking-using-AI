@@ -1,4 +1,4 @@
-# Species-identification-and-tracking-using-AI-
+# Species-identification-and-tracking-using-AI
 Species Identification and Tracking involves using advanced technologies such as artificial intelligence (AI) and machine learning to identify and monitor various species of animals and plants in their natural habitats. This field utilizes computer vision techniques to analyze images and videos captured from wildlife cameras, drones, or other sources to automatically detect, classify, and track different species.
 
 The primary objectives of species identification and tracking using AI include:
