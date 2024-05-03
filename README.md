@@ -3,10 +3,14 @@ Species Identification and Tracking involves using advanced technologies such as
 
 The primary objectives of species identification and tracking using AI include:
 
-Automated Identification: Developing algorithms that can accurately recognize and classify species based on visual data, reducing the need for manual identification.
-Wildlife Conservation: Supporting conservation efforts by monitoring endangered or protected species and their habitats more efficiently.
-Biodiversity Research: Enabling researchers to study species diversity, population dynamics, and ecological interactions at scale.
-Real-time Monitoring: Implementing systems that can provide real-time updates on species presence and distribution for conservation and management purposes.
+  1. Automated Identification: Developing algorithms that can accurately recognize and classify species based on visual data, reducing the need for manual identification.
+
+  2. Wildlife Conservation: Supporting conservation efforts by monitoring endangered or protected species and their habitats more efficiently.
+
+  3. Biodiversity Research: Enabling researchers to study species diversity, population dynamics, and ecological interactions at scale.
+
+  4. Real-time Monitoring: Implementing systems that can provide real-time updates on species presence and distribution for conservation and management purposes.
+
 Key components of species identification and tracking using AI include:
 
 Data Collection: Gathering large datasets of labeled images or videos containing diverse species.
